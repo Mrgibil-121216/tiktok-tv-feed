@@ -1,0 +1,14 @@
+[
+  {
+    "author": "@gibil",
+    "title": "Video Pertama",
+    "desc": "Ganti ini dengan judul video asli",
+    "url": "https://res.cloudinary.com/USERNAME/video/upload/v0000000/nama-video.mp4"
+  },
+  {
+    "author": "@gibil",
+    "title": "Video Kedua",
+    "desc": "Tambahkan objek baru seperti ini untuk tiap video",
+    "url": "https://res.cloudinary.com/USERNAME/video/upload/v0000000/video-lain.mp4"
+  }
+]
